@@ -1,5 +1,7 @@
 body {
   margin: 0;
+  background-color: #0B2027;
+
 }
 
 .app {
@@ -58,6 +60,7 @@ body {
 
 body {
   margin: 0;
+
 }
 
 .app {
@@ -153,6 +156,7 @@ body {
 
 .content {
   margin: 0;
+
 }
 
 .task.done .content {
